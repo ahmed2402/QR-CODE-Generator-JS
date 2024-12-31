@@ -1,4 +1,4 @@
-QR Code Generator
+# QR Code Generator
 
 This is a simple QR Code Generator project built using HTML, CSS, and JavaScript. It allows users to generate a QR code for any text or URL and provides the ability to clear the input and generated QR code. The project is also deployed on Vercel for live use.
 
@@ -9,7 +9,7 @@ This is a simple QR Code Generator project built using HTML, CSS, and JavaScript
 - Responsive and user-friendly interface.
 
 ## Live Demo
-You can use the QR Code Generator live [here](https://qr-code-generator.vercel.app).
+You can use the QR Code Generator live [here](https://qr-code-generator-js-brown.vercel.app/).
 
 ## Installation
 To use this project locally:
