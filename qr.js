@@ -17,6 +17,8 @@ const clearBtn = document.querySelector(".clear");
 clearBtn.addEventListener("click", () => {
     qrText.value = "";
     qrimg.src = "";
+    qr.classList.remove("showimg");
+
 });
 
 btn.addEventListener("click", () => {

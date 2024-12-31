@@ -1,7 +1,7 @@
 * {
     margin: 0;
     padding: 0;
-    font-family: "Century";
+    font-family: "Franklin Gothic Medium";
     box-sizing: border-box;
 }
 
@@ -53,6 +53,8 @@ body {
 }
 .btn:hover {
     background-color: #0077B6;
+    transition: all 0.3s ease;
+    transform: scale(1.05);
 }
 .clrbtn {
     display: flex;
@@ -85,7 +87,7 @@ body {
     border-radius: 5px;
     max-height: 0px;
     overflow: hidden;
-    transition: max-height 0.5s;
+    /* transition: max-height 0.5s; */
 }
 
 .qr img {
